@@ -1,0 +1,15 @@
+[
+  {
+    "name": "5.0.0",
+    "path": "/react-native-ui-kitten/docs/5.0.0",
+    "isCurrent": true
+  },
+  {
+    "name": "3.x",
+    "path": "/react-native-ui-kitten/docs/3.x",
+  },
+  {
+    "name": "4.x",
+    "path": "/react-native-ui-kitten/docs/4.x",
+  }
+]
